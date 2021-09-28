@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Yoga",
+      "author": "Apoorv Goyal",
+      "created_on": "25th January, 2021",
+      "caption": "The photo was taken by the author when a woman is doing yoga.",
+      "image": "../assets/image_1.jpg"
+  
+    },
+    {
+      "title": "Vegtable",
+      "author": "Saurabh Aswani",
+      "created_on": "14th February, 2021",
+      "caption": "The photo was taken by the author  when he eats vegetable.",
+      "image": "../assets/image_2.jpg"
+    }
+  ]
